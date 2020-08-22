@@ -1,0 +1,52 @@
+body {
+	text-align: center;
+	letter-spacing: .5rem;
+	top: 15%;
+	background: linear-gradient(to right, red, green, blue);
+	padding: 2rem;
+}
+
+
+h1 {
+	font-family: 'Russo One', sans-serif;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 4rem;
+
+}
+
+
+.input {
+	padding: 2rem;
+
+}
+
+
+#col {
+	border-color: black;
+	border-width: 2px; 
+	
+}
+
+h2 {
+	font-family: 'Monoton', cursive;
+	text-transform: uppercase;
+	color: black;
+	font-size: 3rem;
+}
+
+h3 {
+	color: white;
+	font-size: 15px;
+}
+
+#random {
+	font-family: 'Russo One', sans-serif;
+	font-size: 1.5rem;
+	background-color: yellow;
+	padding: 15px;
+	border-radius: 20px;
+	border-color: black;
+	margin: 2%;
+	outline:none;
+}
